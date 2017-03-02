@@ -11,4 +11,14 @@ output: md_document
 
 I love Octocat. She’s the coolest cat in town.
 ![octocat](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/assignments/octocat.png)
+```{r quick_look, echo=TRUE}
+data("anscombe")
+dim.data.frame(anscombe)
+colnames(anscombe)
+head(anscombe)
+tail(anscombe)
+summary(anscombe)
+
+
+```
 
