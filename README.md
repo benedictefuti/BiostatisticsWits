@@ -63,4 +63,4 @@ I love Octocat. She’s the coolest cat in town.
     ## 10  7  7  7  8  4.82 7.26  6.42  7.91
     ## 11  5  5  5  8  5.68 4.74  5.73  6.89
 
-<img src=".figuresxy_plot-1.svg" style="display: block; margin: auto;" />
+<img src=".figures/xy_plot-1.svg" style="display: block; margin: auto;" />
